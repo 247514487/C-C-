@@ -1,0 +1,43 @@
+﻿  main.cpp
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(210,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(293,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(295,68): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(295,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(360,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(360,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(377,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(377,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(394,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(394,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(514,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(514,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(705,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(707,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(708,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(731,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(731,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(732,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(732,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(735,27): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(830,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(831,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(853,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\main.cpp(855,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  tools.cpp
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\tools.cpp(90,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  vector2.cpp
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(7,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(7,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(12,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(12,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(17,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(17,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(22,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(22,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(26,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(26,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(46,39): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(51,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\vector2.cpp(51,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  植物大战僵尸.vcxproj -> C:\Users\Ve\Desktop\找工作\C++项目\Plants-vs-Zombies-DEMO\Plants-vs-Zombies-DEMO\x64\Debug\植物大战僵尸.exe
